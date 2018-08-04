@@ -5,7 +5,7 @@ from discord.ext.commands import Bot
 from wowapi import WowApi as wow
 
 BOT_PREFIX = "!"
-TOKEN = "NDc1MTkwOTA5MzQ5Mzk2NDgw.DkbdaQ.JW8Ltanv3H0tDswg-Llw4KwnFDY"
+TOKEN = ""
 
 client = Bot(command_prefix=BOT_PREFIX)
 
